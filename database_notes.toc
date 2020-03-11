@@ -1,0 +1,13 @@
+\contentsline {section}{\numberline {1}What are they?}{2}% 
+\contentsline {section}{\numberline {2}What do we want to do with them?}{2}% 
+\contentsline {section}{\numberline {3}Structure of a database table}{2}% 
+\contentsline {section}{\numberline {4}Designing: part 1}{2}% 
+\contentsline {subsection}{\numberline {4.1}The Primary Key}{3}% 
+\contentsline {subsection}{\numberline {4.2}Basic Design}{4}% 
+\contentsline {subsection}{\numberline {4.3}Basic Queries}{5}% 
+\contentsline {section}{\numberline {5}Designing Part 2}{7}% 
+\contentsline {subsection}{\numberline {5.1}Basic set-up code for the new database}{9}% 
+\contentsline {subsection}{\numberline {5.2}Joining}{10}% 
+\contentsline {section}{\numberline {6}Designing part 3}{11}% 
+\contentsline {subsection}{\numberline {6.1}Association tables}{11}% 
+\contentsline {subsection}{\numberline {6.2}Joining}{13}% 
